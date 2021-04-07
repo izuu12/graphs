@@ -2,7 +2,9 @@
 
 the program calculates the sum of the masses of elements that had to change places in order to reach the target place. 
 
-Contains a file with 4 lines of data.
+The file with the .out extension contains the final result, i.e. the sum of masses
+
+File with the extension .in contains 4 lines of data.
 The first specifies the number of elements (n) in the following lines. 
 The next one determines the mass for each of the n elements. 
 The 3rd line is the indexes with the current setting and the last line is the target setting. np file
